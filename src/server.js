@@ -30,7 +30,7 @@ app.use('/api/orders', orderRouter);
 app.use('/api/upload', uploadRouter);
 
 const publicFolder = path.join(__dirname, 'public');
-app.use('/public', express.static(publicFolder));
+app.use(express.static(publicFolder));
 
 app.get('*', (req, res) => {
   const indexFilePath = path.join(publicFolder, 'index.html');
