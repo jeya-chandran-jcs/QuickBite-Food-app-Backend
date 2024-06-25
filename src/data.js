@@ -75,7 +75,7 @@ export const sample_foods = [
     favorite: false,
     origins: ['india', 'asia'],
     stars: 4.5,
-    imageUrl: 'briyani.jpg',
+    imageUrl: 'food-1.jpg',
     tags: ['Briyani', 'Pizza', 'Lunch','Non-Veg'],
   },
   {
@@ -86,7 +86,7 @@ export const sample_foods = [
     favorite: true,
     origins: ['inida', 'middle east', 'china'],
     stars: 5,
-    imageUrl: 'dosai.jpg',
+    imageUrl: 'food-2.jpg',
     tags: ['SlowFood', 'Breakfast', 'Dinner','Veg'],
   },
   {
@@ -97,7 +97,7 @@ export const sample_foods = [
     favorite: false,
     origins: ['india', 'us', 'asia'],
     stars: 3.5,
-    imageUrl: 'Butterchicken.jpg',
+    imageUrl: 'food-3.jpg',
     tags: ['Non-Veg','FastFood', 'Grilled', 'Lunch', 'Dinner'],
   },
   {
@@ -108,7 +108,7 @@ export const sample_foods = [
     favorite: true,
     origins: ['italy', 'france','india'],
     stars: 3,
-    imageUrl: 'vegsalad.jpg',
+    imageUrl: 'food-4.jpg',
     tags: ['SlowFood', 'Lunch', 'Dinner', 'Salad', 'Veg', 'Breakfast'],
   },
   {
@@ -119,7 +119,7 @@ export const sample_foods = [
     favorite: false,
     origins: ['india', 'asia',],
     stars: 3.5,
-    imageUrl: 'MushroomGravy.jpg',
+    imageUrl: 'food-5.jpg',
     tags: ['SlowFood', 'Sides','Veg'],
   },
   {
@@ -130,7 +130,7 @@ export const sample_foods = [
     favorite: false,
     origins: ['italy', 'france'],
     stars: 4.0,
-    imageUrl: 'pizza.jpg',
+    imageUrl: 'food-6.jpg',
     tags: ['Non-Veg','FastFood', 'Pizza', 'Lunch'],
   },
   
